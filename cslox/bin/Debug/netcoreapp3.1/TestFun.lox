@@ -1,0 +1,5 @@
+fun sayHi(first, last) {
+    print "hi, " + first + " " + last;
+}
+
+sayHi("Jonas", "Wagner");

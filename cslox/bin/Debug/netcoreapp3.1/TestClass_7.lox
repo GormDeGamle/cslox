@@ -1,0 +1,11 @@
+class Worm {
+    wiggle() {
+        print "wiggle, wiggle, worm!";
+    }
+}
+fun PullOutTheWorm() {
+    //var w = Worm();
+    return Worm();
+}
+
+print PullOutTheWorm().wiggle();

@@ -1,0 +1,14 @@
+var f = "F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\nonexistentfile.txt";
+print file_exists(f);
+
+f = "F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\cslox.exe";
+print file_exists(f);
+
+//f = 12;
+//print file_exists(f);
+
+f = "F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\TestFiles.lox";
+print file_readtext(f);
+
+print "enter filename: ";
+f = input();

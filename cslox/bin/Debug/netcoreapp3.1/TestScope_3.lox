@@ -1,0 +1,25 @@
+//Testing scope and blocks...
+var a = "global a";
+{
+  var a = "outer a";
+  var b = "b";
+  {
+    var a = "inner a";
+    var c = "c";
+    {
+        var a = "innermost a";
+        var d = "d";
+        print a;
+        print b;
+        print c;
+        print d;
+        print "";
+    }
+    print a;
+    print "";
+  }
+  print a;
+  print "";
+}
+print a;
+print "";

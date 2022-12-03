@@ -1,0 +1,17 @@
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\cslox.exe
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\testrpnprinter.exe
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\testrpnprinter.deps.json
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\testrpnprinter.runtimeconfig.json
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\testrpnprinter.runtimeconfig.dev.json
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\testrpnprinter.dll
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\testrpnprinter.pdb
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\cslox.dll
+F:\Source\VS2019\repos\cslox\rpnprinter\bin\Debug\netcoreapp3.1\cslox.pdb
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\netcoreapp3.1\testrpnprinter.csprojAssemblyReference.cache
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\netcoreapp3.1\testrpnprinter.AssemblyInfoInputs.cache
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\netcoreapp3.1\testrpnprinter.AssemblyInfo.cs
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\netcoreapp3.1\testrpnprinter.csproj.CoreCompileInputs.cache
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\netcoreapp3.1\testrpnprinter.csproj.CopyComplete
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\netcoreapp3.1\testrpnprinter.dll
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\netcoreapp3.1\testrpnprinter.pdb
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\netcoreapp3.1\testrpnprinter.genruntimeconfig.cache

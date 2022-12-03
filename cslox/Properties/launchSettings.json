@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cslox": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\Source\\VS2019\\repos\\cslox\\cslox\\lox\\TestFiles_2.lox"
+    }
+  }
+}

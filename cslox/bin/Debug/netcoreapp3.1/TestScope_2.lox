@@ -1,0 +1,20 @@
+return "at top level";
+
+fun bad() {
+  var a = "first";
+  var a = "second";
+  return a;
+}
+print bad();
+
+{
+  break;
+}
+
+/*
+var a = 1;
+{
+  var a = a + 2;
+  print a;
+}
+*/

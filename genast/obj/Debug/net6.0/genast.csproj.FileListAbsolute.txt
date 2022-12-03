@@ -1,0 +1,15 @@
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\net6.0\genast.exe
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\net6.0\genast.deps.json
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\net6.0\genast.runtimeconfig.json
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\net6.0\genast.dll
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\net6.0\ref\genast.dll
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\net6.0\genast.pdb
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\genast.csproj.AssemblyReference.cache
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\genast.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\genast.AssemblyInfoInputs.cache
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\genast.AssemblyInfo.cs
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\genast.csproj.CoreCompileInputs.cache
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\genast.dll
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\ref\genast.dll
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\genast.pdb
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\net6.0\genast.genruntimeconfig.cache

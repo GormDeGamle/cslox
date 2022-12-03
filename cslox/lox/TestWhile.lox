@@ -1,0 +1,9 @@
+var a;
+var b = 100;
+
+a = 0;
+
+while (a < b) {
+    print "a is now " + (a < 50 ? a : a < 90 ? "very big!" : "extremely large!");
+    a = a + 1;
+}

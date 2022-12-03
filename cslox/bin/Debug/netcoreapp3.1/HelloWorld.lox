@@ -1,0 +1,16 @@
+//Hello World!
+print "Hello World!";
+print "";
+print "Calculate something...";
+
+var a = 4;
+var b = 5.75;
+var c = (a * b) + 10;
+
+/*------------------------------------
+   print the result of the calculation
+--------------------------------------*/
+
+print "a = 4";
+print "b = 5.75";
+print "(a * b) + 10 = " +  c;

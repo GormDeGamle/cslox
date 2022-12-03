@@ -1,0 +1,11 @@
+var a = 12;
+{
+    var b = 4;
+    print a;
+    print b;
+}
+
+var a = true;
+if (a) {
+    print "ja";
+}

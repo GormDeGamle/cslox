@@ -1,0 +1,13 @@
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\netcoreapp3.1\genast.AssemblyInfoInputs.cache
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\netcoreapp3.1\genast.AssemblyInfo.cs
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\netcoreapp3.1\genast.csproj.CoreCompileInputs.cache
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\netcoreapp3.1\genast.exe
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\netcoreapp3.1\genast.deps.json
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\netcoreapp3.1\genast.runtimeconfig.json
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\netcoreapp3.1\genast.runtimeconfig.dev.json
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\netcoreapp3.1\genast.dll
+F:\Source\VS2019\repos\cslox\genast\bin\Debug\netcoreapp3.1\genast.pdb
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\netcoreapp3.1\genast.dll
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\netcoreapp3.1\genast.pdb
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\netcoreapp3.1\genast.genruntimeconfig.cache
+F:\Source\VS2019\repos\cslox\genast\obj\Debug\netcoreapp3.1\genast.csproj.AssemblyReference.cache

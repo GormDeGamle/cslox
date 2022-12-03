@@ -1,0 +1,15 @@
+print "Please enter something: ";
+var Time = clock();
+var Something = input();
+
+if (Something == "") {
+    Something = "absolutely nothing";
+}
+
+print "That was " + Something + "!";
+print "";
+print "Now enter a number - i will sqare it for you:";
+var Number = input();
+print "And the sqare of it is " + (Number * Number);
+print "";
+print "It took you " + (clock() - Time) + " sec. to enter this.";

@@ -1,0 +1,6 @@
+fun ExecuteAndReturn(fn) {
+  return fn(11);
+}
+
+print 10 + ExecuteAndReturn(fun (i) {return i;});
+print 10 + ExecuteAndReturn(fun (i) {return i * 2;});

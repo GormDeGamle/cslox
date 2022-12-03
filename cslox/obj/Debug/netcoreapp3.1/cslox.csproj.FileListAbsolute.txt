@@ -1,0 +1,13 @@
+F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\cslox.exe
+F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\cslox.deps.json
+F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\cslox.runtimeconfig.json
+F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\cslox.runtimeconfig.dev.json
+F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\cslox.dll
+F:\Source\VS2019\repos\cslox\cslox\bin\Debug\netcoreapp3.1\cslox.pdb
+F:\Source\VS2019\repos\cslox\cslox\obj\Debug\netcoreapp3.1\cslox.AssemblyInfoInputs.cache
+F:\Source\VS2019\repos\cslox\cslox\obj\Debug\netcoreapp3.1\cslox.AssemblyInfo.cs
+F:\Source\VS2019\repos\cslox\cslox\obj\Debug\netcoreapp3.1\cslox.csproj.CoreCompileInputs.cache
+F:\Source\VS2019\repos\cslox\cslox\obj\Debug\netcoreapp3.1\cslox.dll
+F:\Source\VS2019\repos\cslox\cslox\obj\Debug\netcoreapp3.1\cslox.pdb
+F:\Source\VS2019\repos\cslox\cslox\obj\Debug\netcoreapp3.1\cslox.genruntimeconfig.cache
+F:\Source\VS2019\repos\cslox\cslox\obj\Debug\netcoreapp3.1\cslox.GeneratedMSBuildEditorConfig.editorconfig

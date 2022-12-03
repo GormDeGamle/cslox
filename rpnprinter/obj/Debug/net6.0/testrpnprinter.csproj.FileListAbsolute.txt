@@ -1,0 +1,5 @@
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\net6.0\testrpnprinter.csproj.AssemblyReference.cache
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\net6.0\testrpnprinter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\net6.0\testrpnprinter.AssemblyInfoInputs.cache
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\net6.0\testrpnprinter.AssemblyInfo.cs
+F:\Source\VS2019\repos\cslox\rpnprinter\obj\Debug\net6.0\testrpnprinter.csproj.CoreCompileInputs.cache

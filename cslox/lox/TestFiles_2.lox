@@ -1,0 +1,49 @@
+print "enter filename:";
+var f = input();
+
+var stream = file_open(f, 4); //4 = OpenOrCreate
+print "file '" + f + "' opened.";
+//print stream;
+seek_eof(stream);
+
+print "";
+print "Type the lines you want to append - type 'bye' when done:";
+
+var l = input();
+while (l != "bye") {    
+    file_writeline(stream, l);
+    l = input();
+}
+
+//print "";
+//print "Adding some numbers...";
+
+//for (var i = 1; i < 5; i = i + 1) {
+    //file_write(stream, i);
+    //file_write(stream, " ");
+//}
+
+print "";
+print "Reading content char by char...";
+
+seek_bof(stream);
+
+l = file_read(stream);
+while (l != "") {
+    print l;
+    l = file_read(stream);
+}
+
+print "";
+print "Reading content line by line...";
+
+seek_bof(stream);
+
+l = file_readline(stream);
+while (l != "") {
+    print l;
+    l = file_readline(stream);
+}
+
+file_close(stream);
+print "file '" + f + "' closed.";

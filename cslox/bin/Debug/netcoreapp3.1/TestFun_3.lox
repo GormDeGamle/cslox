@@ -1,0 +1,16 @@
+fun fib(n) {
+  if (n <= 1) return n;
+  return fib(n - 2) + fib(n - 1);
+}
+
+//*** Benchmarking...
+var Start = clock();
+
+//*** Working...
+for (var i = 0; i < 25; i = i + 1) {
+  print fib(i);
+}
+
+//*** Benchmarking...
+var Finish = clock() - Start;
+print "Elapsed time: " + Finish + " sec.";

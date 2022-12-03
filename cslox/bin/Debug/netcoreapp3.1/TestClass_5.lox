@@ -1,0 +1,37 @@
+//-------------------------------------------------------
+
+var NotAClass = "I am totally not a class";
+
+//class SubClass < NotAClass {}
+
+//-------------------------------------------------------
+
+class Doughnut {
+  cook() {
+    print "Fry until golden brown.";
+  }
+}
+
+class BostonCream < Doughnut {
+  cook() {
+    super.cook();
+    print "Pipe full of custard and coat with chocolate.";
+  }
+}
+
+class BostonSpecial < BostonCream {
+  cook() {
+    super.cook();
+    print "Add cherry on top.";
+  }
+}
+
+print "Garcon, a Bostom Cream Doughnut please!";
+print "---------------------------------------";
+BostonCream().cook();
+print "";
+print "Garcon, a Bostom Special Doughnut please!";
+print "-----------------------------------------";
+BostonSpecial().cook();
+
+//-------------------------------------------------------

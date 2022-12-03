@@ -1,0 +1,14 @@
+var a = 1; var b = 2;
+{
+    print a + b; print "ready.";
+    print "done!";
+}
+
+b = b - 1;
+
+if (a == b) {
+    print "same";
+} else {
+    print "not the same";
+}
+

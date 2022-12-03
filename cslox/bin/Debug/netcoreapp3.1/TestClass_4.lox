@@ -1,0 +1,51 @@
+//-------------------------------------------------------
+
+class Bar {
+  class square(n) {
+    return n * n;
+  }
+  duplicate(n) {
+      return n * 2;
+  }
+}
+
+print "4^2=" + Bar.square(4);
+
+//print "4*2" + Bar.duplicate(4);
+var Bar = Bar();
+print "4*2=" + Bar.duplicate(4);
+
+//-------------------------------------------------------
+
+class OMG {
+
+  class init(name) {
+    this.name = name;
+  }
+
+  class showme() {
+    print "I'll show you something...";
+    //print "I'll show you" + this name;    
+  }
+  callme() {
+    print "called " + this.name;
+  }
+}
+
+print OMG("I'm already gone!").name;
+var WTF = OMG("What the...");
+//var LOL = OMG.init("Haha!");
+var LOL = OMG("Haha!");
+print WTF.name;
+print LOL.name;
+LOL.name = "Hahaha!!!";
+print LOL.name;
+LOL.init("Hihi!");
+print LOL.name;
+//print OMG.init("Was denn?").name;
+OMG("test").callme();
+LOL.callme();
+LOL.showme();
+OMG.showme();
+
+//-------------------------------------------------------
