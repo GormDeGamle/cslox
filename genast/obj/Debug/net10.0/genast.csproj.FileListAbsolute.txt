@@ -1,0 +1,15 @@
+D:\Dev\.NET\Source\cslox\genast\bin\Debug\net10.0\genast.exe
+D:\Dev\.NET\Source\cslox\genast\bin\Debug\net10.0\genast.deps.json
+D:\Dev\.NET\Source\cslox\genast\bin\Debug\net10.0\genast.runtimeconfig.json
+D:\Dev\.NET\Source\cslox\genast\bin\Debug\net10.0\genast.dll
+D:\Dev\.NET\Source\cslox\genast\bin\Debug\net10.0\genast.pdb
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\genast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\genast.AssemblyInfoInputs.cache
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\genast.AssemblyInfo.cs
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\genast.csproj.CoreCompileInputs.cache
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\genast.sourcelink.json
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\genast.dll
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\refint\genast.dll
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\genast.pdb
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\genast.genruntimeconfig.cache
+D:\Dev\.NET\Source\cslox\genast\obj\Debug\net10.0\ref\genast.dll
