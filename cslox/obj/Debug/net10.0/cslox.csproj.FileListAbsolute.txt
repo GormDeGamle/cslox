@@ -1,0 +1,15 @@
+D:\Dev\.NET\Source\cslox\cslox\bin\Debug\net10.0\cslox.exe
+D:\Dev\.NET\Source\cslox\cslox\bin\Debug\net10.0\cslox.deps.json
+D:\Dev\.NET\Source\cslox\cslox\bin\Debug\net10.0\cslox.runtimeconfig.json
+D:\Dev\.NET\Source\cslox\cslox\bin\Debug\net10.0\cslox.dll
+D:\Dev\.NET\Source\cslox\cslox\bin\Debug\net10.0\cslox.pdb
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\cslox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\cslox.AssemblyInfoInputs.cache
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\cslox.AssemblyInfo.cs
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\cslox.csproj.CoreCompileInputs.cache
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\cslox.sourcelink.json
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\cslox.dll
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\refint\cslox.dll
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\cslox.pdb
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\cslox.genruntimeconfig.cache
+D:\Dev\.NET\Source\cslox\cslox\obj\Debug\net10.0\ref\cslox.dll
