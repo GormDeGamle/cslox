@@ -2,7 +2,7 @@
   "profiles": {
     "cslox": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\lox\\TestFiles_2.lox"
+      "commandLineArgs": "D:\\Dev\\.NET\\source\\cslox\\cslox\\lox\\TestFiles_2.lox"
     }
   }
 }

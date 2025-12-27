@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cslox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deada0b8be459a081efc637824915529d55c52c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+598e00403b47507baba255943f25c052be4cef3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("cslox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cslox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
