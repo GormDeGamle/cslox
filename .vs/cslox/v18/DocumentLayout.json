@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\.NET\\Source\\cslox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\cslox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\cslox.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\lox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\lox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3FF4DF-198E-41DE-B172-4CB84FDC7B73}|rpnprinter\\testrpnprinter.csproj|d:\\dev\\.net\\source\\cslox\\rpnprinter\\rpnprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A3FF4DF-198E-41DE-B172-4CB84FDC7B73}|rpnprinter\\testrpnprinter.csproj|solutionrelative:rpnprinter\\rpnprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A3FF4DF-198E-41DE-B172-4CB84FDC7B73}|rpnprinter\\testrpnprinter.csproj|d:\\dev\\.net\\source\\cslox\\rpnprinter\\testrpnprinter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A3FF4DF-198E-41DE-B172-4CB84FDC7B73}|rpnprinter\\testrpnprinter.csproj|solutionrelative:rpnprinter\\testrpnprinter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617CA03D-1C35-4D4D-A299-5480BE18F6C3}|testastprinter\\testastprinter.csproj|d:\\dev\\.net\\source\\cslox\\testastprinter\\testastprinter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{617CA03D-1C35-4D4D-A299-5480BE18F6C3}|testastprinter\\testastprinter.csproj|solutionrelative:testastprinter\\testastprinter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A25634AC-B8C0-47E0-A66F-F9E5CE3A2912}|genast\\genast.csproj|d:\\dev\\.net\\source\\cslox\\genast\\genast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A25634AC-B8C0-47E0-A66F-F9E5CE3A2912}|genast\\genast.csproj|solutionrelative:genast\\genast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\cslox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\cslox.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\callable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\callable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\fileio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\fileio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\loxfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\loxfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cslox",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\cslox.csproj",
+              "RelativeDocumentMoniker": "cslox\\cslox.csproj",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\cslox.csproj",
+              "RelativeToolTip": "cslox\\cslox.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T15:11:58.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RpnPrinter.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\rpnprinter\\RpnPrinter.cs",
+              "RelativeDocumentMoniker": "rpnprinter\\RpnPrinter.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\rpnprinter\\RpnPrinter.cs",
+              "RelativeToolTip": "rpnprinter\\RpnPrinter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T12:50:13.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "testrpnprinter.csproj",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\rpnprinter\\testrpnprinter.csproj",
+              "RelativeDocumentMoniker": "rpnprinter\\testrpnprinter.csproj",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\rpnprinter\\testrpnprinter.csproj",
+              "RelativeToolTip": "rpnprinter\\testrpnprinter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T12:48:58.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testastprinter.csproj",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\testastprinter\\testastprinter.csproj",
+              "RelativeDocumentMoniker": "testastprinter\\testastprinter.csproj",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\testastprinter\\testastprinter.csproj",
+              "RelativeToolTip": "testastprinter\\testastprinter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T12:48:37.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "genast.csproj",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\genast\\genast.csproj",
+              "RelativeDocumentMoniker": "genast\\genast.csproj",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\genast\\genast.csproj",
+              "RelativeToolTip": "genast\\genast.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T12:48:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cslox.csproj",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\cslox.csproj",
+              "RelativeDocumentMoniker": "cslox\\cslox.csproj",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\cslox.csproj",
+              "RelativeToolTip": "cslox\\cslox.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T12:45:39.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Callable.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Callable.cs",
+              "RelativeDocumentMoniker": "cslox\\Callable.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Callable.cs",
+              "RelativeToolTip": "cslox\\Callable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:48:46.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lox.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Lox.cs",
+              "RelativeDocumentMoniker": "cslox\\Lox.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Lox.cs",
+              "RelativeToolTip": "cslox\\Lox.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAnwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:48:46.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileIO.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\FileIO.cs",
+              "RelativeDocumentMoniker": "cslox\\FileIO.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\FileIO.cs",
+              "RelativeToolTip": "cslox\\FileIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:48:46.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Parser.cs",
+              "RelativeDocumentMoniker": "cslox\\Parser.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Parser.cs",
+              "RelativeToolTip": "cslox\\Parser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:48:46.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Interpreter.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Interpreter.cs",
+              "RelativeDocumentMoniker": "cslox\\Interpreter.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Interpreter.cs",
+              "RelativeToolTip": "cslox\\Interpreter.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwDkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:48:46.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoxFunction.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\LoxFunction.cs",
+              "RelativeDocumentMoniker": "cslox\\LoxFunction.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\LoxFunction.cs",
+              "RelativeToolTip": "cslox\\LoxFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T17:48:46.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

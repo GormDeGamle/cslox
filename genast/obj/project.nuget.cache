@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3MyB5+BaFu7ELX6HPNcvWq6knb33XPyyxgYgYxzvyTFwGTOSpFCaKD56yr4p2sdloHlV3UgOBcGSa/+2UjPxMg==",
+  "dgSpecHash": "LAHOYOX0350=",
   "success": true,
-  "projectFilePath": "F:\\Dev\\.NET\\Source\\cslox\\genast\\genast.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Dev\\.NET\\Source\\cslox\\genast\\genast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andiw\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andiw\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andiw\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andiw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

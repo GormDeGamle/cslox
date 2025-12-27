@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\.NET\\Source\\cslox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\callable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\callable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\interpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\fileio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\fileio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\loxfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\loxfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\lox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\lox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|d:\\dev\\.net\\source\\cslox\\cslox\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95661793-02E4-49EC-9E07-AC3ED3D0C482}|cslox\\cslox.csproj|solutionrelative:cslox\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Callable.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Callable.cs",
+              "RelativeDocumentMoniker": "cslox\\Callable.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Callable.cs",
+              "RelativeToolTip": "cslox\\Callable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T17:38:41.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lox.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Lox.cs",
+              "RelativeDocumentMoniker": "cslox\\Lox.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Lox.cs",
+              "RelativeToolTip": "cslox\\Lox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T17:38:41.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileIO.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\FileIO.cs",
+              "RelativeDocumentMoniker": "cslox\\FileIO.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\FileIO.cs",
+              "RelativeToolTip": "cslox\\FileIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T17:38:41.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Parser.cs",
+              "RelativeDocumentMoniker": "cslox\\Parser.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Parser.cs",
+              "RelativeToolTip": "cslox\\Parser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T17:38:41.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interpreter.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Interpreter.cs",
+              "RelativeDocumentMoniker": "cslox\\Interpreter.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\Interpreter.cs",
+              "RelativeToolTip": "cslox\\Interpreter.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwDkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T17:38:41.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoxFunction.cs",
+              "DocumentMoniker": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\LoxFunction.cs",
+              "RelativeDocumentMoniker": "cslox\\LoxFunction.cs",
+              "ToolTip": "D:\\Dev\\.NET\\Source\\cslox\\cslox\\LoxFunction.cs",
+              "RelativeToolTip": "cslox\\LoxFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T17:38:41.277Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

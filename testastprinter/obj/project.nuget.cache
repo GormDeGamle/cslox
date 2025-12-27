@@ -1,8 +1,25 @@
 {
   "version": 2,
-  "dgSpecHash": "yBn4ZtAbOZ7Gcnsr66B0L/G3ZCfjLp10Y8kL7XT5Zrxy++DgyUrAPTJmCSwWxouhi32qK9AqJkUIoBSXX35IGA==",
-  "success": true,
-  "projectFilePath": "F:\\Dev\\.NET\\Source\\cslox\\testastprinter\\testastprinter.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "dgSpecHash": "SZZuorCRzas=",
+  "success": false,
+  "projectFilePath": "D:\\Dev\\.NET\\Source\\cslox\\testastprinter\\testastprinter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andiw\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andiw\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andiw\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\andiw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Das Projekt cslox ist nicht mit net6.0 (.NETCoreApp,Version=v6.0) kompatibel. Das Projekt cslox unterstützt Folgendes: net10.0 (.NETCoreApp,Version=v10.0)",
+      "projectPath": "D:\\Dev\\.NET\\Source\\cslox\\testastprinter\\testastprinter.csproj",
+      "filePath": "D:\\Dev\\.NET\\Source\\cslox\\testastprinter\\testastprinter.csproj",
+      "libraryId": "cslox",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

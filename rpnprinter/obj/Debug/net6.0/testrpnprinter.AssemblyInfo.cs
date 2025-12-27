@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testrpnprinter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deada0b8be459a081efc637824915529d55c52c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("testrpnprinter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testrpnprinter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
