@@ -63,6 +63,7 @@ ScaffoldingReadMe.txt
 # Other
 *.suo
 *.sln.docstates
+.suo
 
 # By VS?
 .vs/cslox/CopilotIndices
